@@ -1,0 +1,358 @@
+Script started on 2022-02-25 20:18:44+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="168" LINES="44"]
+]0;purvapatidar@DESKTOP-6SGKS71: ~[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m~[00m$ git --version
+git version 2.25.1
+]0;purvapatidar@DESKTOP-6SGKS71: ~[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m~[00m$ ls
+my_git_session  my_unix_session
+]0;purvapatidar@DESKTOP-6SGKS71: ~[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m~[00m$ pe[Kwd
+/home/purvapatidar
+]0;purvapatidar@DESKTOP-6SGKS71: ~[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m~[00m$ cd [K/[K /
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ cd /nt[K[Kmnt/c
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c[00m$ ls
+ls: cannot access 'DumpStack.log.tmp': Permission denied
+ls: cannot access 'hiberfil.sys': Permission denied
+ls: cannot access 'pagefile.sys': Permission denied
+ls: cannot access 'swapfile.sys': Permission denied
+[0m[01;32m'!qhlogs.doc'[0m   [01;36m'Documents and Settings'[0m  [01;32m'MRP_Debug1-[CY20M10D12-R130.0.BL].log'[0m    [01;34mPerfLogs[0m               [34;42mPython37[0m                     [01;34mUsers[0m          [34;42mlogs[0m
+[34;42m'$Recycle.Bin'[0m   DumpStack.log            [01;32m'MRP_Project-[CY20M10D12-R130.0.BL].log'[0m  [01;34m'Program Files'[0m         [01;34mRecovery[0m                     [01;34mWindows[0m        pagefile.sys
+[01;34m'$WinREAgent'[0m    DumpStack.log.tmp         [01;34mMSOCache[0m                                 [01;34m'Program Files (x86)'[0m  [01;34m'System Volume Information'[0m   [34;42mconfigqhtemp[0m   swapfile.sys
+ [01;34mConfig.Msi[0m      [34;42mIntel[0m                     [34;42mOneDriveTemp[0m                              [34;42mProgramData[0m            [34;42mTurboC++[0m                     hiberfil.sys   [01;32mupgrade.log[0m
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c[00m$ cd users/hp/desktop
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop[00m$ ls
+ [0m[01;32m0801EC181060_BT_ET_Purva_Patidar4page.docx[0m   [01;32mDiscord.lnk[0m  [01;32m'Microsoft Edge.lnk'[0m                [01;32m'Visual Studio Code.lnk'[0m     [34;42m'excel 2019'[0m
+ [01;32mBIO-DATA.docx[0m                                [34;42mGithub[0m       [01;32m'Microsoft Teams.lnk'[0m               [01;32m'Youtube Downloader HD.lnk'[0m   [34;42mmy_phone[0m
+ [01;32mDictionary.lnk[0m                               [34;42mInternship[0m    [01;32mMiniconda3-latest-Linux-x86_64.sh[0m  [34;42m'data analysis with python'[0m   [34;42mproject[0m
+[01;32m'Diksha - Chrome.lnk'[0m                         [01;32mLnT.docx[0m     [01;32m'Purva - Chrome.lnk'[0m                 [01;32mdesktop.ini[0m                  [34;42mshell-lesson-data[0m
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop[00m$ mkdir [K[K[K[K[K[Kcd github
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ ls
+[0m[01;32mcheck.txt[0m
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ giti[K init
+Reinitialized existing Git repository in /mnt/c/users/hp/desktop/github/.git/
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log
+[?1h=[33mcommit 8d120f7fc12e6ceafbd8c0142188caeef370365b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:53:14 2022 +0530[m
+[m
+    check modified[m
+[m
+[33mcommit 430f5cb77679bab01b168e81724339d41b7c8609[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:43:03 2022 +0530[m
+[m
+    check file added[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ cat check.txt 
+xyz]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git add check.txt 
+error: bad fsmonitor version 2
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git add .
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git commit -m ""s"e"c"o"n"d" "c"h"e"c"k" "m"o"d"i"f"i"e"d"
+[main 22122d3] second check modified
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log
+[?1h=[33mcommit 22122d342b90527dcc6da30b191feb406844ae23[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:26:11 2022 +0530[m
+[m
+    second check modified[m
+[m
+[33mcommit 8d120f7fc12e6ceafbd8c0142188caeef370365b[m[33m ([m[1;31morigin/main[m[33m)[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:53:14 2022 +0530[m
+[m
+    check modified[m
+[m
+[33mcommit 430f5cb77679bab01b168e81724339d41b7c8609[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:43:03 2022 +0530[m
+[m
+    check file added[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git push origin main
+Username for 'https://github.com': PurvaPatidar-03
+Password for 'https://PurvaPatidar-03@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/PurvaPatidar-03/Test.git/'
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ ssh -keygen -o[1P[C[C[C[C[C[C[C[C[C[C
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/purvapatidar/.ssh/id_rsa): 
+Created directory '/home/purvapatidar/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/purvapatidar/.ssh/id_rsa
+Your public key has been saved in /home/purvapatidar/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:MsPvfktKe7n641meK/0B2sLen2a9BW1pzDG71vm8AMY purvapatidar@DESKTOP-6SGKS71
+The key's randomart image is:
++---[RSA 3072]----+
+|                 |
+|                 |
+|               o |
+|     .    .   o.=|
+|      = S  E. .*o|
+|       = ..o...o+|
+|        o =oo..=o|
+|       o =**..=++|
+|       .**B==*+o=|
++----[SHA256]-----+
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ cd/[K /
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ cat ^C
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ ls
+[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;32minit[0m  [01;36mlib[0m  [01;36mlib32[0m  [01;36mlib64[0m  [01;36mlibx32[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msnap[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ cat /home/purvapatidar/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCtTDrXb5a+paabEjZp5ipTY1xN70GEgxid09ZQZUWdX7AFh7GB3DfbNck/1zsQyj1WqQhIbKEMzCLXEA1/bSomNB6PGClZruK7vk5uquB7/eKiBXTW7hgTEUjvAY+ZbPfMH6fumo2CfJIdgqA8iJNmYc+pLlMoxJuEOxR618FRCLj6R5CqZUFvFG4ZwB/PVNv1Legy+KucDCrqSJF9voUS5eIfqIOLSh1dsGb8TTVvIDaFDfSomitFHJNQSsHlDnMBfRo9M506e5S9jZMvHg1gEyJ9eRevhn52hNaTSZqMgms95BotlMEGL+P9XEUbu9yV++PdpN/m1P2S2pwSh3lT1QUTdyBywIC05sCpPopKlA16iyc5Re00SYqx1w7QKfu140Lv/yjJraOWUUkcFwRjLdPe/sgFZJPvLgBDLVY+WopUrTp3rHKnOUalxy6+FwKUTEk2MQ9htJ7+/k8n4w+E5gui8WXB+Pa5oNFr6SWyjP4Birv4kmZyRwb0uNmecXE= purvapatidar@DESKTOP-6SGKS71
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ git remote -v
+fatal: not a git repository (or any of the parent directories): .git
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ pwd
+/
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ cd ..
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ ls
+[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;32minit[0m  [01;36mlib[0m  [01;36mlib32[0m  [01;36mlib64[0m  [01;36mlibx32[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msnap[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
+]0;purvapatidar@DESKTOP-6SGKS71: /[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/[00m$ cd mnt//mnt/[C[C[C[Cc/users/hp/desktop/github
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ ls
+[0m[01;32mcheck.txt[0m
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log
+[?1h=[33mcommit 22122d342b90527dcc6da30b191feb406844ae23[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:26:11 2022 +0530[m
+[m
+    second check modified[m
+[m
+[33mcommit 8d120f7fc12e6ceafbd8c0142188caeef370365b[m[33m ([m[1;31morigin/main[m[33m)[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:53:14 2022 +0530[m
+[m
+    check modified[m
+[m
+[33mcommit 430f5cb77679bab01b168e81724339d41b7c8609[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:43:03 2022 +0530[m
+[m
+    check file added[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ touch new.txt
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ nano new.txt 
+[?2004h[?1049h[22;0;0t[1;44r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[42;78H(B[0;7m[ Reading... ](B[m[42;77H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                    new.txt                                                                               [1;167H(B[m[43d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[43;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous[44d(B[0;7m^X(B[m Exit[44;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[44;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[42d[2d[39;49m(B[m[?12l[?25h[?25l[1;159H(B[0;7mModified(B[m[2da[?12l[?25h[?25lb[?12l[?25h[?25lc[?12l[?25h[?25l[42;77H (B[0;7m[ Writing... ](B[m[K[1;159H(B[0;7m        (B[m[42;77H(B[0;7m[ Wrote 1 line ](B[m[2;4H[?12l[?25h[?25l[42d[J[44d[?12l[?25h[44;1H[?1049l[23;0;0t[?1l>[?2004l]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ cat nw[Kew.txt 
+abc
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git l[K[K[K[K[Kgit status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mnew.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git add new.txt 
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git commit -m 
+error: switch `m' requires a value
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git commit -m ""c"[1P"n"e"w" "f"i"l"e" "a"d"d"e"d"
+[main 1a7e333] new file added
+ 1 file changed, 1 insertion(+)
+ create mode 100644 new.txt
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git remote add origin https://github.com/PurvaPatidar-03/linux.git
+fatal: remote origin already exists.
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git push -u origin main
+Username for 'https://github.com': PurvaPatidar-03
+Password for 'https://PurvaPatidar-03@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/PurvaPatidar-03/Test.git/'
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git statsu[K[Kus
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git add new.txt 
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ rm new.txt 
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    new.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git comit [K[K[Kmit -m ""n"e"w" "f"i"l"e" "d"e"l"e"t"e"d"
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    new.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    new.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ ls
+[0m[01;32mcheck.txt[0m
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git add .
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    new.txt[m
+
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log -p -2
+[?1h=[33mcommit 1a7e333d3a90203f7bcffe44c37a8dae590920d5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:56:14 2022 +0530[m
+[m
+    new file added[m
+[m
+[1mdiff --git a/new.txt b/new.txt[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..8baef1b[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/new.txt[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mabc[m[m
+[m
+[33mcommit 22122d342b90527dcc6da30b191feb406844ae23[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:26:11 2022 +0530[m
+[m
+    second check modified[m
+[m
+[1mdiff --git a/check.txt b/check.txt[m[m
+[1mindex 598619c..d66d9d7 100644[m[m
+[1m--- a/check.txt[m[m
+[1m+++ b/check.txt[m[m
+[36m@@ -1 +1 @@[m[m
+[31m-xyz prajwal[m[m
+\ No newline at end of file[m[m
+[32m+[m[32mxyz[m[m
+\ No newline at end of file[m[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log --stat
+[?1h=[33mcommit 1a7e333d3a90203f7bcffe44c37a8dae590920d5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:56:14 2022 +0530[m
+[m
+    new file added[m
+[m
+ new.txt | 1 [32m+[m[m
+ 1 file changed, 1 insertion(+)[m
+[m
+[33mcommit 22122d342b90527dcc6da30b191feb406844ae23[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:26:11 2022 +0530[m
+[m
+    second check modified[m
+[m
+ check.txt | 2 [32m+[m[31m-[m[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)[m
+[m
+[33mcommit 8d120f7fc12e6ceafbd8c0142188caeef370365b[m[33m ([m[1;31morigin/main[m[33m)[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:53:14 2022 +0530[m
+[m
+    check modified[m
+[m
+ check.txt | 2 [32m+[m[31m-[m[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)[m
+[m
+[33mcommit 430f5cb77679bab01b168e81724339d41b7c8609[m[m
+Author: purvapatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Thu Jan 13 03:43:03 2022 +0530[m
+[m
+    check file added[m
+[m
+ check.txt | 1 [32m+[m[m
+ 1 file changed, 1 insertion(+)[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ ^M[Kgit log --pretty=oneline
+[?1h=[33m1a7e333d3a90203f7bcffe44c37a8dae590920d5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m new file added[m
+[33m22122d342b90527dcc6da30b191feb406844ae23[m second check modified[m
+[33m8d120f7fc12e6ceafbd8c0142188caeef370365b[m[33m ([m[1;31morigin/main[m[33m)[m check modified[m
+[33m430f5cb77679bab01b168e81724339d41b7c8609[m check file added[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log --pretty=format:"%h - %an, %ar : %s"
+[?1h=1a7e333 - PurvaPatidar-03, 6 days ago : new file added[m
+22122d3 - PurvaPatidar-03, 6 days ago : second check modified[m
+8d120f7 - purvapatidar-03, 7 weeks ago : check modified[m
+430f5cb - purvapatidar-03, 7 weeks ago : check file added[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log --pretty=format:"%h %s" --graph
+[?1h=* 1a7e333 new file added[m
+* 22122d3 second check modified[m
+* 8d120f7 check modified[m
+* 430f5cb check file added[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log --since=2.weeks
+[?1h=[33mcommit 1a7e333d3a90203f7bcffe44c37a8dae590920d5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:56:14 2022 +0530[m
+[m
+    new file added[m
+[m
+[33mcommit 22122d342b90527dcc6da30b191feb406844ae23[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:26:11 2022 +0530[m
+[m
+    second check modified[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log -S function_name
+[?1h=[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git log -S function_name[K[K[K[K[K[K[K[K[K[K[K[K[K
+error: switch `S' requires a value
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git commit --amend
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+No changes
+You asked to amend the most recent commit, but doing so would make
+it empty. You can repeat your command with --allow-empty, or you can
+remove the commit entirely with "git reset HEAD^".
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git add *
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    new.txt[m
+
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git remote
+origin
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git fetch pb
+fatal: 'pb' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git tag
+[?1h=[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ git show
+[?1h=[33mcommit 1a7e333d3a90203f7bcffe44c37a8dae590920d5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: PurvaPatidar-03 <patidarpurva2000@gmail.com>[m
+Date:   Fri Feb 25 20:56:14 2022 +0530[m
+[m
+    new file added[m
+[m
+[1mdiff --git a/new.txt b/new.txt[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..8baef1b[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/new.txt[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mabc[m[m
+[K[?1l>]0;purvapatidar@DESKTOP-6SGKS71: /mnt/c/users/hp/desktop/github[01;32mpurvapatidar@DESKTOP-6SGKS71[00m:[01;34m/mnt/c/users/hp/desktop/github[00m$ exit
+exit
+
+Script done on 2022-03-03 19:50:40+05:30 [COMMAND_EXIT_CODE="0"]
