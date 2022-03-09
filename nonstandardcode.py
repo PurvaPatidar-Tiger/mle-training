@@ -5,18 +5,15 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from six.moves import urllib
-from sklearn.model_selection import GridSearchCV
 from scipy.stats import randint
+from six.moves import urllib
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import RandomizedSearchCV
-from sklearn.metrics import mean_absolute_error
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import StratifiedShuffleSplit
-from sklearn.tree import DecisionTreeRegressor
 from sklearn.impute import SimpleImputer
-from sklearn.metrics import mean_squared_error
 from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_absolute_error, mean_squared_error
+from sklearn.model_selection import (GridSearchCV, RandomizedSearchCV,
+                                     StratifiedShuffleSplit, train_test_split)
+from sklearn.tree import DecisionTreeRegressor
 
 DOWNLOAD_ROOT = "https://raw.githubusercontent.com/ageron/handson-ml/master/"
 HOUSING_PATH = os.path.join("datasets", "housing")
