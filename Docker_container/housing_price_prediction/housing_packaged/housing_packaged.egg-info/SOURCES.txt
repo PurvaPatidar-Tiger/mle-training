@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+housing_packaged/housing_packaged.egg-info/PKG-INFO
+housing_packaged/housing_packaged.egg-info/SOURCES.txt
+housing_packaged/housing_packaged.egg-info/dependency_links.txt
+housing_packaged/housing_packaged.egg-info/top_level.txt
